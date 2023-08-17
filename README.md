@@ -1,7 +1,7 @@
 # Systems-Analysis-Design
 
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-The client for this project was the owner of a company called DriverPass. He wanted to make a system that would allow students to study and train for the driving test.
+The client for this project was a company called DriverPass. they wanted to make a system that would allow students to study and train for the driving test.
 
 # What did you do particularly well?
 I believe that I did a good job understanding the overall business needs of the client and making sure they were noted in my business requirements document.
